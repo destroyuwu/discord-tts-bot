@@ -1,7 +1,7 @@
 {
-  "token": "YOUR_DISCORD_TOKEN",
+  "token": "MTAxMzMwNDgyOTUyNDg1Njk1Mg.GH0cLA.afzcoNIEJ4KymoT9F9wczFcnxZvCQ3ytw6_RmY",
   "prefix": "$",
-  "owner_id": "123123123",
+  "owner_id": "368676767160074241",
   "owner_reporting": false,
   "presence_refresh_interval": 600000,
   "default_disconnect_timeout": 5,
